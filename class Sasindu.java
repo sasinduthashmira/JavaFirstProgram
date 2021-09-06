@@ -1,11 +1,11 @@
 class Sasindu{
     public static void main (String args[]){
         mySpace();
-        extracted();
+        printDetails();
         mySpace();
     }
 
-    private static void extracted() {
+    private static void printDetails() {
        
         System.out.println("Hello World!");
          System.out.println("I'm Sasindu Thashmira ");
